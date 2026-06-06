@@ -29,8 +29,6 @@ Hi, I'm Amjith S S 👋
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=kannanamjith10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
