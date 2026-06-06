@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Amjith S S 👋
 ## 🔭 I'm currently working on
 <br>Learning core ECE concepts<br>Building my technical skills<br>
 ## 🌱 I'm currently learning
