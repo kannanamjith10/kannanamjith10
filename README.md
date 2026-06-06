@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kannanamjith10&label=Profile%20views&color=0e75b6&style=flat" alt="kannanamjith10" /> </p>
 
-- 🔭 I’m currently working on **Strengthening programming fundamentals and electronics concepts**
-
-- 🌱 I’m currently learning **C programming, Python basics, and core ECE subjects**
-
-- 👯 I’m looking to collaborate on **Beginner-friendly student projects and learning communities**
-
-- 🤝 I’m looking for help with **Understanding programming, electronics concepts, and project building**
-
-- 💬 Ask me about **Electronics fundamentals and programming basics**
-
 - 📫 How to reach me **Kannanamjith10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
