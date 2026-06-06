@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Learning core ECE concepts<br>Building my technical skills<br>🌱 I'm currently learning<br>Electronics and Communication Engineering fundamentals<br>Programming basics<br>👯 I'm looking to collaborate on<br>Student projects<br>Beginner-friendly technical projects<br>🤝 I'm looking for help with<br>ECE projects<br>Internship preparation<br>💬 Ask me about<br>Beginner programming<br>⚡ Fun fact<br>I'm a 3rd-year ECE student exploring different areas of technology and engineering.
+## 🔭 I'm currently working on
+<br>Learning core ECE concepts<br>Building my technical skills<br>
+## 🌱 I'm currently learning
+<br>Electronics and Communication Engineering fundamentals<br>Programming basics<br>
+## 👯 I'm looking to collaborate on
+<br>Student projects<br>Beginner-friendly technical projects<br>
+## 🤝 I'm looking for help with
+<br>ECE projects<br>Internship preparation<br>
+## 💬 Ask me about
+<br>Beginner programming<br>
+## ⚡ Fun fact
+<br>I'm a 3rd-year ECE student exploring different areas of technology and engineering.
 
 
 ## 🌐 Socials:
